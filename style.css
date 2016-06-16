@@ -28,4 +28,5 @@ div#memory_board > div{
 
 .card-image {
   width: 100%;
+  border: none;
 }
